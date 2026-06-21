@@ -1,0 +1,32 @@
+<h1 align="center">
+  <img src="kiro.jpg" alt="Kiro" width="220" />
+  <br />
+  Surfn Plasma Dark tela
+</h1>
+
+![Last-Commit](https://img.shields.io/github/last-commit/erikdubois/surfn-plasma-dark?style=for-the-badge)
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/erikdubois?style=flat">&nbsp;&nbsp;<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/erikdubois/surfn-plasma-dark">&nbsp;&nbsp;<img alt="GitHub forks" src="https://img.shields.io/github/forks/erikdubois/surfn-plasma-dark">
+
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCJdmdUp5BrsWsYVQUylCMLg">&nbsp;&nbsp;<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCJdmdUp5BrsWsYVQUylCMLg">
+
+---
+
+A colour variant of the [Surfn](https://github.com/erikdubois/surfn) icon theme. Ships the **Surfn-Plasma-Dark**, **Surfn-Plasma-Dark-Breeze**, **Surfn-Plasma-Dark-Qogir**, **Surfn-Plasma-Dark-Tela** themes and inherits the base **Surfn** icon set, so `surfn-icons-git` is required.
+
+## Installation (Arch / Kiro — nemesis_repo)
+
+```
+sudo pacman -S surfn-plasma-dark-tela-git
+```
+
+`surfn-icons-git` (base Surfn) is pulled in automatically as a dependency.
+
+## Manual
+
+Copy the **Surfn-Plasma-Dark** icon folder into `~/.icons` (or `~/.local/share/icons` on Plasma),
+make sure the base `Surfn` theme is present, then select **Surfn Plasma Dark** in your appearance settings.
+
+## License
+
+[LICENSE](./LICENSE) — Attribution-NonCommercial-ShareAlike 4.0 International.
